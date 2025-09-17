@@ -1,0 +1,2 @@
+DevOps (a portmanteau of “development” and “operations”) is the combination of practices and tools designed to increase an organization's ability to deliver applications and services faster than traditional software development processes.
+Examples of powerful summaries for a DevOps engineer resume include: "DevOps engineer with ten years of experience in designing, implementing, and managing complex infrastructures. Proficient in multiple DevOps tools and techniques and knowledgeable in infrastructure automation and configuration management.
